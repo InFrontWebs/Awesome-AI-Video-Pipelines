@@ -69,6 +69,7 @@ Models for generating talking-head video, lip-synced avatars, and full scene vid
 | [CogVideoX](https://github.com/THUDM/CogVideo) | Open-source video generation model from Tsinghua. Strong semantic understanding and motion quality for cinematic output. | ![Stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=flat-square) |
 | [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) | Accurately lip-syncs videos to any speech audio. Fast inference, production-proven, works with any face video. | ![Stars](https://img.shields.io/github/stars/Rudrabha/Wav2Lip?style=flat-square) |
 | [LatentSync](https://github.com/bytedance/LatentSync) | ByteDance's audio-conditioned latent diffusion model for talking head generation with high-fidelity lip sync. | ![Stars](https://img.shields.io/github/stars/bytedance/LatentSync?style=flat-square) |
+| [Podframes](https://github.com/Jellypod-Inc/podframes) | Local studio and CLI for generating two-host AI podcast videos with scripted dialogue, TTS voices, lip-sync, captions, and MP4 rendering. | ![Stars](https://img.shields.io/github/stars/Jellypod-Inc/podframes?style=flat-square) |
 
 ---
 
